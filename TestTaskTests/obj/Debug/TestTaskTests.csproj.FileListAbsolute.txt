@@ -1,0 +1,9 @@
+D:\projects\TestTask\TestTaskTests\bin\Debug\TestTaskTests.dll
+D:\projects\TestTask\TestTaskTests\bin\Debug\TestTaskTests.pdb
+D:\projects\TestTask\TestTaskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\projects\TestTask\TestTaskTests\bin\Debug\TestTask.exe
+D:\projects\TestTask\TestTaskTests\bin\Debug\TestTask.pdb
+D:\projects\TestTask\TestTaskTests\obj\Debug\TestTaskTests.csprojResolveAssemblyReference.cache
+D:\projects\TestTask\TestTaskTests\obj\Debug\TestTaskTests.dll
+D:\projects\TestTask\TestTaskTests\obj\Debug\TestTaskTests.pdb
+D:\projects\TestTask\TestTaskTests\bin\Debug\RailFenceCipher\DataSource.xml

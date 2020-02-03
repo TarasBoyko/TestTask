@@ -1,0 +1,5 @@
+D:\projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+D:\projects\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\projects\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\projects\TestTask\TestTask\obj\Debug\TestTask.pdb

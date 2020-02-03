@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestList>
+  <Row decodedString = "" numberOfRails = "2" encodedString = "" />
+  <Row decodedString = "" numberOfRails = "43" encodedString = "" />
+  
+  <!--string with 1 character-->
+  <Row decodedString = "A" numberOfRails = "2" encodedString = "A" />
+  <Row decodedString = "B" numberOfRails = "3" encodedString = "B" />
+  <Row decodedString = "C" numberOfRails = "345" encodedString = "C" />
+  
+  <!--string with 2 characters-->
+  <Row decodedString = "RT" numberOfRails = "2" encodedString = "RT" />
+  <Row decodedString = "TY" numberOfRails = "3" encodedString = "TY" />
+  <Row decodedString = "KJ" numberOfRails = "100" encodedString = "KJ" />
+  
+  <!--string with 3 characters-->
+  <Row decodedString = "ABC" numberOfRails = "2" encodedString = "ACB" />
+  <Row decodedString = "FGH" numberOfRails = "3" encodedString = "FGH" />
+  <Row decodedString = "VBN" numberOfRails = "99" encodedString = "VBN" />
+  
+  <Row decodedString = "ABCDEFGJ" numberOfRails = "2" encodedString = "ACEGBDFJ" />
+  <Row decodedString = "ABCDEFGJ" numberOfRails = "3" encodedString = "AEBDFJCG" />
+  <Row decodedString = "ABCDEFGJ" numberOfRails = "4" encodedString = "AGBFJCED" />
+  <Row decodedString = "ABCDEFGJ" numberOfRails = "7" encodedString = "ABCDEFJG" />
+  <Row decodedString = "WEAREDISCOVEREDFLEEATONCE" numberOfRails = "3" encodedString = "WECRLTEERDSOEEFEAOCAIVDEN" />
+</TestList>
